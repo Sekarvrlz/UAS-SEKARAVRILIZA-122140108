@@ -1,0 +1,32 @@
+/* src/index.css */
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #ececec;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .user-list {
+    padding: 20px;
+  }
+  
+  .home {
+    text-align: center;
+    padding: 20px;
+  }
+  
